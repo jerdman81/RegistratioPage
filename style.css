@@ -1,0 +1,66 @@
+.navAlign {
+    text-align: right;
+    color: blue;
+    background-color: white;
+    height: 2.5rem;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.background {
+    background-color: skyblue;
+}
+
+.formBox {
+    background-color: white;
+    width: 20%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 5rem auto;
+    /* margin-left: 40%;
+    margin-top: 100px; */
+    padding: 0.5rem;
+    align-self: center; 
+    border-radius: 10px;   
+}
+
+.innerFormBox {
+    margin: 10px;
+    align-content:stretch; 
+    padding-left: 10%;        
+}
+
+.inputBox {
+    width: 200px;
+}
+
+.button {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: white;
+    border-width: 1px;
+    border-color: black;
+    margin: 5px;
+    padding: 0.5rem 1rem;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#submit {
+    width: 200px;
+}
+
+.borderShadow {
+    box-shadow: 5px 5px 4px 5px black;
+}
+
+.roundImage {
+    border-radius: 50%;
+    height: 2rem;
+    padding: 0.25rem;
+}
+
+input {
+    display: block;
+    border-radius: 5px;
+}
