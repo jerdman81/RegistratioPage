@@ -2,13 +2,14 @@
     text-align: right;
     color: blue;
     background-color: white;
-    height: 2.5rem;
-    margin: 5px;
-    border-radius: 5px;
+    height: 4rem;
+    width: 100%;
+    margin: 0.25rem;
+    border-radius: 0.25rem;
 }
 
 .background {
-    background-color: skyblue;
+    background-color: #64b7ff;
 }
 
 .formBox {
@@ -20,34 +21,34 @@
     margin-top: 100px; */
     padding: 0.5rem;
     align-self: center; 
-    border-radius: 10px;   
+    border-radius: 0.25rem;   
 }
 
 .innerFormBox {
-    margin: 10px;
+    margin: 2rem;
     align-content:stretch; 
     padding-left: 10%;        
 }
 
 .inputBox {
-    width: 200px;
+    width: 90%;
 }
 
 .button {
     font-family:Arial, Helvetica, sans-serif;
-    background-color: blue;
+    background-color: #0080ff;
     color: white;
-    border-width: 1px;
+    border-width: 0.2rem;
     border-color: black;
-    margin: 5px;
+    margin: 0.5rem;
     padding: 0.5rem 1rem;
-    height: 30px;
-    border-radius: 5px;
+    height: 2.5rem;
+    border-radius: 0.25rem;
     font-weight: bold;
 }
 
 #submit {
-    width: 200px;
+    width: 12rem;
 }
 
 .borderShadow {
@@ -62,5 +63,5 @@
 
 input {
     display: block;
-    border-radius: 5px;
+    border-radius: 0.2rem;
 }
